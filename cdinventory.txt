@@ -1,0 +1,5 @@
+1,Purple Rain,Prince and the Revolution
+2,Sweeter,Gavin Degraw
+3,25,Adele
+4,Rags to Rufus,Rufus and Chaka Khan
+5,Fine Lines,Harry Styles
